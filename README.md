@@ -13,10 +13,11 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast. I love 
 - 📫 How to reach me: ferreira.vaz@live.com
 - 🎮 Game developer student
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-vaz&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vaz&layout=compact&theme=dark)](https://github.com/rafael-vaz?tab=repositories)
 
+<details>
+<summary>🚀👨‍ Technologies & Tools</summary>
+  
 #### 👨‍💻 Languages
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,3 +58,6 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast. I love 
 ![](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+</details>
+
+
