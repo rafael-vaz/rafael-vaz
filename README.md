@@ -8,13 +8,15 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast. I love 
 [![](https://img.shields.io/badge/-Youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UC300Ub7I7Lkang9MZ99zalg)
 
 - 💻 I currently work as a freelancer
+
 - 🌱 I’m currently learning Typescript
+
 - 💬 Ask me about anything [here](https://github.com/rafael-vaz/rafael-vaz/issues)
+
 - 📫 How to reach me: ferreira.vaz@live.com
+
 - 🎮 Game developer student
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vaz&layout=compact&theme=dark)](https://github.com/rafael-vaz?tab=repositories)
-
+<br>
 <details>
 <summary>🚀👨‍ Technologies & Tools</summary>
   
@@ -59,5 +61,6 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast. I love 
 ![](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 </details>
+<br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vaz&layout=compact&theme=dark)](https://github.com/rafael-vaz?tab=repositories)
