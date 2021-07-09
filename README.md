@@ -2,7 +2,7 @@
 
 Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Brazil.
 
-- 👨‍💻 Web developer working as a Freelancer.
+- 👨‍💻 Front-End Developer.
 - 🌱 I’m currently learning Typescript.
 - 💙 HTML, CSS, Javascript, C#, React, Dotnet.
 - 🎮 Game developer student.
