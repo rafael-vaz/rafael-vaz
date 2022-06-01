@@ -1,4 +1,4 @@
-## Hi there, I'm Rafael! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi there, I'm Rafael! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
 
 Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Brazil.
 
