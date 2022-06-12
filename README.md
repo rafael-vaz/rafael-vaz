@@ -8,7 +8,7 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
 - 🎮 Game developer student.
 
   
-  <div align="center">
+  
   
   <a href="https://github.com/rafael-vaz">
     
@@ -16,7 +16,7 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vaz&layout=compact"/>
     
-</div>
+
 
  
 ## Skills 🤓
