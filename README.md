@@ -11,9 +11,9 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
   
   <a href="https://github.com/rafael-vaz">
     
-  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=rafael-vaz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
+  <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api?username=rafael-vaz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
     
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vaz&layout=compact"/>
+  <img height="auto" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vaz&layout=compact"/>
  
  </div>   
 
