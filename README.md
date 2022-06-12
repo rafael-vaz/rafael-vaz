@@ -7,13 +7,13 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
 - 💙 HTML, CSS, Javascript, C#, React, Dotnet.
 - 🎮 Game developer student.
   
-<div align="left" >
+<div align="center" >
   
   <a href="https://github.com/rafael-vaz">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-vaz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
+  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=rafael-vaz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vaz&layout=compact"/>
+  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vaz&layout=compact"/>
  
  </div>   
 
