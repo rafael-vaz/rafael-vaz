@@ -9,7 +9,7 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
 
 
 
-<br/>
+
 <div align="center">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -24,7 +24,7 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
  
   </div>
   
-  <br/>
+
  
 ## Skills 🤓
 
