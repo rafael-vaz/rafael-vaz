@@ -6,16 +6,26 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
 - 🌱 I’m currently learning Typescript.
 - 💙 HTML, CSS, Javascript, C#, React, Dotnet.
 - 🎮 Game developer student.
+
+<p align="center">
+  <a href="https://github.com/rafael-vaz">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vaz&layout=compact"
+    />
+  </a> 
+  </p>
   
-<div align="center" >
+  <p align="center">
+   <a href="https://github.com/rafael-vaz">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=rafael-vaz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
   
-  <a href="https://github.com/rafael-vaz"/>
-    
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafael-vaz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
-    
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vaz&layout=compact"/>
- 
- </div>   
+  </p>
 
 
 ## Skills 🤓
@@ -63,9 +73,3 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
  </p>
 
 </p>
-
-
-
-
-  
-
