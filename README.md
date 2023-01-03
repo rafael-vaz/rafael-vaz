@@ -12,7 +12,7 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
    <a href="https://github.com/rafael-vaz">
     <img
       align="center"
-      height="180"
+      height="165px"
       src="https://github-readme-stats.vercel.app/api?username=rafael-vaz&show_icons=true&bg_color=00000000"
     />
   </a>
@@ -20,11 +20,10 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
   
   <a href="https://github.com/rafael-vaz">
     <img
-      align="center" height="180"
+      align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vaz&&layout=compact&bg_color=00000000"
     />
   </a> 
- 
   
   </div>
 
