@@ -7,7 +7,8 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
 - 💙 HTML, CSS, Javascript, C#, React, Dotnet.
 - 🎮 Game developer student.
   
-  <div align="center">
+<div align="center">
+
   <a href="https://github.com/rafael-vaz">
     <img
       align="center" height="165px"
@@ -21,6 +22,7 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-vaz&&layout=compact&bg_color=00000000"
     />
   </a> 
+  
  </div>
 
 ## Skills 🤓
@@ -43,7 +45,6 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Contact 📱
@@ -65,6 +66,4 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
 ## Profile visits 🕵️
 <p align="center"> 
    <img height="25px" alingn="center" src="https://profile-counter.glitch.me/rafael-vaz/count.svg" />
- </p>
-
 </p>
