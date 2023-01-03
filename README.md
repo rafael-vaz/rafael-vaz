@@ -15,7 +15,6 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
       src="https://github-readme-stats.vercel.app/api?username=rafael-vaz&show_icons=true&bg_color=00000000"
     />
   </a>
-  &nbsp;
   <a href="https://github.com/rafael-vaz">
     <img
       align="center"
