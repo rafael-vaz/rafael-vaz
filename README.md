@@ -7,7 +7,7 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
 - 💙 HTML, CSS, Javascript, C#, React, Dotnet.
 - 🎮 Game developer student.
 
-<div>
+<div align="center>
   
    <a href="https://github.com/rafael-vaz">
     <img
