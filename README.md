@@ -35,6 +35,7 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
 <br/><br/>
 
 ### Tools 
+
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
 <img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
