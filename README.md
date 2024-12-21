@@ -7,7 +7,7 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
 - 💙 HTML, CSS, Javascript, PHP.
 - 🎮 Game developer student.
 
-### Languages 
+#### Core Technologies 
 
 <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -18,7 +18,7 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
 
 <br/><br/>
 
-### Frameworks 
+#### Frameworks & Libraries 
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
@@ -29,7 +29,7 @@ Hi, I'm Rafael Vaz, web developer and open source technology enthusiast from Bra
 
 <br/><br/>
 
-### Tools 
+#### Development Tools 
 
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
