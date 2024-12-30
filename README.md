@@ -1,6 +1,6 @@
 ## Hi there, I'm Rafael! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="26">
 
-Hi, I'm Rafael Vaz—a web developer and open-source technology enthusiast from Brazil, dedicated to crafting impactful digital experiences.
+Hi, I'm Rafael Vaz, a web developer and open-source technology enthusiast from Brazil, dedicated to crafting impactful digital experiences.
 
 - Front-End Developer passionate about crafting seamless user experiences.
 - Currently diving into the world of Next.js.
