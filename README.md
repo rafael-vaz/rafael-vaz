@@ -2,7 +2,7 @@
 
 Hi, I'm Rafael Vaz, a web developer and open-source technology enthusiast from Brazil, dedicated to crafting impactful digital experiences.
 
-- Front-End Developer passionate about crafting seamless user experiences.
+- Full-Stack Developer focused on scalable and seamless applications.
 - Currently diving into the world of Next.js.
 - Enthusiast of the creative process, driven by innovation.
 - Aspiring Game Developer, blending creativity with technology.
